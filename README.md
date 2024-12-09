@@ -52,21 +52,14 @@ Hello! I'm **Abhishek Srivastava**, a passionate **DevOps Engineer** with over 3
 
 ---
 
-## 💡 Strengths
-
-- **Automation Enthusiast**: Obsessed with making workflows faster and more efficient.  
-- **Problem-Solving Mindset**: Tackling complex challenges with creative solutions.  
-- **Continuous Learner**: Always exploring emerging DevOps tools and technologies.  
-- **Collaborative Leader**: Bridging gaps between teams for seamless operations.
-
----
-
 ## 🌟 Certifications
 
-- **AWS Solutions Architect – Associate**  
-- **Microsoft Azure – DevOps Engineer Expert**  
-- **Microsoft Azure – Fundamentals & Admin**  
-- **Salesforce Marketing Cloud Admin & Email Specialist**
+- ![AWS](https://img.shields.io/badge/AWS%20Solutions%20Architect-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white) **AWS Solutions Architect – Associate**  
+- ![Azure](https://img.shields.io/badge/Microsoft%20Azure%20DevOps%20Engineer-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white) **Microsoft Azure – DevOps Engineer Expert**  
+- ![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Admin-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white) **Microsoft Azure – Admin**  
+- ![Azure](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white) **Microsoft Azure – Fundamentals**  
+- ![Salesforce](https://img.shields.io/badge/Salesforce%20Admin-%2300A1E0.svg?style=flat-square&logo=salesforce&logoColor=white) **Salesforce Marketing Cloud – Admin**  
+- ![Salesforce](https://img.shields.io/badge/Salesforce%20Email%20Specialist-%2300A1E0.svg?style=flat-square&logo=salesforce&logoColor=white) **Salesforce Marketing Cloud – Email Specialist**
 
 ---
 
