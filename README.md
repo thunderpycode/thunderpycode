@@ -91,7 +91,8 @@ I specialize in **reliability engineering, automation, and observability**, with
 - Microsoft Certified: DevOps Engineer Expert  
 - Microsoft Certified: Azure Administrator  
 - Microsoft Certified: Azure Fundamentals  
-- Claude Certified Developer & Architect (Anthropic)  
+- Claude Certified Developer & Architect (Anthropic)
+- Claude Certified Architect — Foundations (Anthropic)
 
 ---
 
